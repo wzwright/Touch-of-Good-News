@@ -1,0 +1,11 @@
+.news {
+  padding: 0px 15px;
+  text-align: center;
+  clear:both;
+}
+.right{
+	float:right;
+	border:none;	
+	margin-top:-40px;
+}
+
